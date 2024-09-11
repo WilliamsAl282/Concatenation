@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Alex Williams
+# 9/11/2024
 # String Concatenation in Python
 
 # Example 1
