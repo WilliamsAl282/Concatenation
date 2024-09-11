@@ -37,5 +37,6 @@ print(f'My name is {full_name} and my date of birth is {str(birthday)} ')
 # Part 4
 # Use concatenation to create and display a sentence that says which country in the world
 # you would visit if money were no object
-full_name = ('Your full name?')
-input(full_name)
+place = ('Germany')
+place_togo =('I believe if money was not a thing then' + " " + place + " " +'would be a good place because it seems like I cool place to chill at')
+print(place_togo)
